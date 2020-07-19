@@ -1,2 +1,3 @@
-# RobloxVR
-A quick thing I made while researching the RobloxVR Api.
+## Roblox Virtual Reality
+
+***NOTE: Uses 2 blocks in the workspace to display the hands, If you add another Item, you can get the head also.***
